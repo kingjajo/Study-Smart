@@ -1,0 +1,2 @@
+# Study-Smart
+Study wisely
